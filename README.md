@@ -1,14 +1,19 @@
 # Luminara Labs
 
-Experimental projects and research in immersive media, spatial computing, and digital environments.
+Luminara Systems LLC currently focuses on physical, in person hyperlocal advertising and community partnerships in Southwest Florida.
 
-## Overview
-This repository contains exploratory projects, prototypes, and research focused on immersive media, spatial computing, and interactive digital environments.
+Luminara Labs explores how those same concepts could translate into the metaverse, spatial computing, and other immersive environments.
 
-The work here is exploratory in nature and may include:
-- Concept prototypes
-- Early technical experiments
-- Documentation and research notes
-- Tools or utilities supporting immersive workflows
+Areas of future exploration may include virtual community boards, interactive local advertising, business discovery, sponsorship opportunities, branded spaces, and ways to connect physical community advertising with digital experiences.
 
-More to come.
+## Repository Status
+
+This repository is reserved for future Luminara Labs experiments, prototypes, research, and technical exploration.
+
+Development is not currently active.
+
+## Luminara Systems LLC
+
+Serving Southwest Florida, including Cape Coral and the Fort Myers area.
+
+contact@luminarasystems.com
