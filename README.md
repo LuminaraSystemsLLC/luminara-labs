@@ -8,9 +8,7 @@ Areas of future exploration may include virtual community boards, interactive lo
 
 ## Repository Status
 
-This repository is reserved for future Luminara Labs experiments, prototypes, research, and technical exploration.
-
-Development is not currently active.
+This repository is reserved for future development as relevant Luminara Labs concepts move into experimentation.
 
 ## Luminara Systems LLC
 
